@@ -1,5 +1,6 @@
 # Desenvolvendo o Dio Bank
 Desafio proposto por [Nathally Souza](https://github.com/nathyts)
+
 Desenvolvido por [Gabriel Eurico](https://github.com/GabrielEur1co)
 #### Projeto desenvolvido com conceitos básicos de typescript
 
