@@ -39,3 +39,5 @@ Desenvolvido por [Gabriel Eurico](https://github.com/GabrielEur1co)
 [ x ] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
 
 
+###Todos os testes das implementações estão no App.ts
+
